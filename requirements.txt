@@ -1,0 +1,5 @@
+geoalchemy2
+geopandas
+Flask
+Flask-RESTful
+geopy
